@@ -1,0 +1,17 @@
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\bin\Debug\net8.0\DatabaseContext.deps.json
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\bin\Debug\net8.0\DatabaseContext.runtimeconfig.json
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\bin\Debug\net8.0\DatabaseContext.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\bin\Debug\net8.0\DatabaseContext.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\bin\Debug\net8.0\DatabaseModels.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\bin\Debug\net8.0\DatabaseModels.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.AssemblyInfo.cs
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\Database.E130DD82.Up2Date
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\refint\DatabaseContext.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\DatabaseContext.genruntimeconfig.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseContext\obj\Debug\net8.0\ref\DatabaseContext.dll

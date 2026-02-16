@@ -1,0 +1,11 @@
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\bin\Debug\net8.0\DatabaseModels.deps.json
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\bin\Debug\net8.0\DatabaseModels.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\bin\Debug\net8.0\DatabaseModels.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\DatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\DatabaseModels.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\DatabaseModels.AssemblyInfo.cs
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\DatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\DatabaseModels.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\refint\DatabaseModels.dll
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\DatabaseModels.pdb
+C:\Users\MSI\Documents\labs\3 семестр\lab8\DatabaseModels\obj\Debug\net8.0\ref\DatabaseModels.dll
